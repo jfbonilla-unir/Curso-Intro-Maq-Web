@@ -1,2 +1,2 @@
 # Curso-Intro-Maq-Web
-Repo Ejercicios - Curso Maq Web - UNIR
+Repo Ejercicios - Curso Introduccion Maquetacion Web - UNIR
